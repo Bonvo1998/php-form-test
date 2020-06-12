@@ -1,5 +1,5 @@
 <?php
-if(){//
+if(isset($_GET[])){//show data
 
 }else{//show form
   echo 
